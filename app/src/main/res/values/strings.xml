@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloButtons</string>
+    <string name="buttonOne_title">Increment</string>
+    <string name="buttonTwo_title">Go</string>
 </resources>
